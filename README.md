@@ -1,3 +1,5 @@
+<a href="bankin://webview?url=http://kotko.me">ss<a/>
+
 ## Electron subprocess with administrative privileges
 
 Run a subprocess with administrative privileges, prompting the user with a graphical OS dialog if necessary. Useful for background subprocesse which run native Electron apps that need sudo.
